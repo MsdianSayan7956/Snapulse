@@ -4,14 +4,12 @@ Heart Disease Prediction Web Application using various Machine Learning Algorith
 
 ## Features
 
-- **High Accuracy Model**: Engineered a heart disease prediction model with an outstanding accuracy exceeding 97%.
-- **Tech Stack**: Implemented with Python, Jupyter, HTML, CSS, and Bootstrap for seamless development.
-- **User-Friendly Interface**: Developed a user-friendly Flask web application.
-- **Integrated Frontend and Backend**: Demonstrated expertise in integrating frontend and backend technologies for a cohesive user experience.
+- **97%+ Accuracy**: Predicts heart disease with high accuracy.
+- **Tech Stack**: Python, Jupyter, HTML, CSS, Bootstrap, Flask.
 
 ## Visit
 
-Check out the live web application here: [Snapulse](https://snapulse.onrender.com)
+Check out the live app: [Snapulse](https://snapulse.onrender.com)
 
 ## Installation
 
@@ -21,30 +19,25 @@ Check out the live web application here: [Snapulse](https://snapulse.onrender.co
     cd Snapulse
     ```
 
-2. Set up a virtual environment and install dependencies:
+2. Set up and activate a virtual environment:
     ```sh
     python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
     ```
 
-3. Run the Jupyter Notebook to understand and test the model:
-    ```sh
-    jupyter notebook
-    ```
-
-4. Start the Flask application:
+3. Run the app locally:
     ```sh
     python app.py
     ```
 
+4. Alternatively, use the live application: [Snapulse](https://snapulse.onrender.com)
+
 ## Usage
 
-1. Navigate to `http://127.0.0.1:5000/` in your web browser.
-2. Enter the required medical data.
-3. Get the prediction for heart disease.
-
+1. Navigate to `http://127.0.0.1:5000/` in your browser for local testing.
+2. Enter medical data and get predictions.
 
 ---
 
-
+Predicting heart health for a healthier future with Snapulse!
